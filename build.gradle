@@ -31,6 +31,7 @@ buildscript {
         }
         classpath "com.google.guava:guava:33.1.0-jre"
         classpath "org.liquibase:liquibase-gradle-plugin:2.2.1"
+        classpath "org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:4.4.1.3373"
     }
 }
 
